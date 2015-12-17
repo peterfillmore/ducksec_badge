@@ -1,0 +1,121 @@
+{
+"pins":
+  {
+  "1":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-3.335,1.905]
+      }
+    },
+  "2":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-3.335,0.635]
+      }
+    },
+  "3":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-3.335,-0.635]
+      }
+    }, 
+   "4":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-3.335,-1.905]
+      }
+    }, 
+    "5":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [3.335,1.905],
+        "rotate": 180 
+      }
+    },
+  "6":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [3.335,0.635],
+        "rotate": 180 
+      }
+    },
+  "7":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [3.335,-0.635],
+        "rotate": 180
+      }
+    }, 
+   "8":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [3.335,-1.905],
+        "rotate": 180
+      }
+    }
+   },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 4, 
+          "height": 5.0,
+          "location": [0, 0],
+          "style": "stroke"
+        },
+        {
+          "type": "circle",
+          "location": [-3.335,3],
+          "diameter": 1,
+          "style": "fill"
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 2.55,
+          "height": 1.4
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+	  "layers": ["top"],
+	  "width": 2.86,
+	  "height": 0.42
+	    }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+"pins":
+  {
+  "LED1-Cathode":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-2.2, 1.6]
+      }
+    },
+  "LED1-Anode":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [2.2, 1.6],
+        "rotate": 180
+      }
+    },
+  "LED2-Cathode":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-2.2, 0]
+      }
+    },
+  "LED2-Anode":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [2.2, 0],
+        "rotate": 180
+      }
+    },
+  "LED3-Cathode":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-2.2, -1.6]
+      }
+    },
+  "LED3-Anode":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [2.2, -1.6],
+        "rotate": 180
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "path",
+          "location": [-1, 3],
+          "style": "stroke",
+          "value": "m 9.733256,-3.3532981 0,1.5040637 -1.3451952,-0.7766501 z m -1.3392318,0.7417308 -0.9152728,0 m 2.2545046,0.020602 1.001829,0 m -2.3410608,-0.7594048 0,1.5092399" 
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 5,
+          "height": 5 
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+	  "layers": ["top"],
+	  "width": 1,
+	  "height": 0.9 
+	}
+      ]
+    }
+  }
+}

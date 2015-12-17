@@ -1,0 +1,42 @@
+{ "pins": { "1": { "layout":{ "pad": "pad", "location": [0,0], "rotate": 0
+        }       
+    }
+ },  
+ "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "layer": ["bottom"], 
+          "location": [-1.7482739,1.9813771],
+          "style": "fill",
+          "diameter": 4 
+        }
+      ]
+    }
+   },
+  "pads":
+  {
+   "pad":{
+        "shapes":
+        [
+        {
+          "type": "circle",
+          "layer": ["bottom"], 
+          "style": "fill",
+          "diameter": 10,
+          "soldermask":
+            {
+                "type": "circle",
+                "layer": ["bottom"], 
+                "style": "fill",
+                "diameter": 10 
+            }
+        }
+        ]
+    } 
+  }
+}

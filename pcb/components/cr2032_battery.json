@@ -1,0 +1,70 @@
+{
+"pins":
+  {
+  "POSITIVE":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-14.65, 0]
+      }
+    },
+  "NEGATIVE":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [14.65, 0],
+        "rotate": 180
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "location": [0, 0],
+          "style": "stroke",
+          "width": 11.0,
+          "height": 7.0 
+        },
+       {
+          "type": "path",
+          "location": [-18, 0],
+          "style": "stroke",
+          "value": "m -27.497995,-1.5151738 4.312409,0 m -2.185343,-2.0687903 0,4.07930457" 
+        } 
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 2.55,
+          "height": 1.4
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+	  "layers": ["top"],
+	  "width": 3.2,
+	  "height": 4.2 
+	}
+      ]
+    }
+  }
+}

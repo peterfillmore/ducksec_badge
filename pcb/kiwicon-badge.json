@@ -1,0 +1,978 @@
+{
+  "components": {
+    "BT1": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "cr2032_battery", 
+      "layer": "bottom", 
+      "location": [
+        -0.51308076, 
+        -8.6248176
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "D1": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -6.9479856, 
+        11.8223
+      ], 
+      "rotate": 352.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D10": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -46.873852, 
+        -0.50386662
+      ], 
+      "rotate": 257.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D11": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -41.395603, 
+        21.44681
+      ], 
+      "rotate": 326, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D12": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -19.471758, 
+        9.3687522
+      ], 
+      "rotate": 343.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D13": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        31.861035, 
+        0.9937941
+      ], 
+      "rotate": 46, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D14": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        34.135096, 
+        -22.771045
+      ], 
+      "rotate": 130.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D15": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        9.9769285, 
+        -34.755933
+      ], 
+      "rotate": 160, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D16": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -16.701428, 
+        -33.752474
+      ], 
+      "rotate": 200.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D17": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "5050-LED", 
+      "layer": "top", 
+      "location": [
+        22.82, 
+        21.94
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D2": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -33.524426, 
+        10.921571
+      ], 
+      "rotate": 32.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D3": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -46.679194, 
+        11.319448
+      ], 
+      "rotate": 285.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D4": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -43.613587, 
+        -11.346917
+      ], 
+      "rotate": 240.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D5": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        22.22697, 
+        -30.709677
+      ], 
+      "rotate": 151.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D6": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        38.739845, 
+        -12.402501
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D7": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -4.4053383, 
+        -35.79715
+      ], 
+      "rotate": 186.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D8": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -28.462956, 
+        -28.519485
+      ], 
+      "rotate": 219.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D9": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1206-LED", 
+      "layer": "top", 
+      "location": [
+        -37.100879, 
+        -21.258869
+      ], 
+      "rotate": 230, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R1": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -33.951637, 
+        -24.949772
+      ], 
+      "rotate": 230, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R10": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -37.577424, 
+        13.407958
+      ], 
+      "rotate": 32.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R11": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -47.926287, 
+        6.4695323
+      ], 
+      "rotate": 285.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R12": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -41.102142, 
+        -15.535119
+      ], 
+      "rotate": 240.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R13": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        26.507444, 
+        -28.267437
+      ], 
+      "rotate": 151.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R14": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        38.636476, 
+        -7.4672909
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R15": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        0.52584229, 
+        -36.179932
+      ], 
+      "rotate": 186.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R16": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -24.648863, 
+        -31.523517
+      ], 
+      "rotate": 219.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R17": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        27.975646, 
+        23.488111
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R18": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        28.102168, 
+        21.839822
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R19": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        28.146276, 
+        20.10912
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R2": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -45.705148, 
+        -5.2745231
+      ], 
+      "rotate": 257.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.061811000000005833, 
+            0.0
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "R3": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -43.368902, 
+        17.473433
+      ], 
+      "rotate": 326, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R4": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -24.171984, 
+        7.8901039
+      ], 
+      "rotate": 343.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R5": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        28.17946, 
+        4.5162273
+      ], 
+      "rotate": 46, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R6": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        37.26602, 
+        -18.97703
+      ], 
+      "rotate": 130.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R7": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        14.573451, 
+        -32.96577
+      ], 
+      "rotate": 160, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R8": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -12.084715, 
+        -35.396995
+      ], 
+      "rotate": 200.0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R9": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -11.834571, 
+        11.125947
+      ], 
+      "rotate": 352, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "SW1": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "TL3301", 
+      "layer": "top", 
+      "location": [
+        -4.9654785, 
+        -6.247546
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -8.61741096, 
+            4.40303284
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "U1": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "SOIC_8", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "eyeprint": {
+      "assembly": {
+        "show": false
+      }, 
+      "footprint": "eye", 
+      "layer": "bottom", 
+      "location": [
+        22.844113, 
+        22.261355
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "soldermask": {
+        "show": true
+      }, 
+      "solderpaste": {
+        "show": false
+      }
+    }, 
+    "x": {
+      "assembly": {
+        "show": false
+      }, 
+      "footprint": "duckbill1", 
+      "layer": "top", 
+      "location": [
+        38.624818, 
+        13.21657
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "soldermask": {
+        "show": true
+      }, 
+      "solderpaste": {
+        "show": false
+      }
+    }
+  }, 
+  "config": {
+    "name": "kiwicon-badge", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "A", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4, 
+      "outline": 0.25, 
+      "pad": 0.25, 
+      "route": 0.25
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        -17.023301, 
+        46.959444
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: kiwicon-badge\nRevision: A\nDescription: fun badge for kiwicon\nLicense: MIT\nDesigner: Peter Fillmore, peter@peterfillmore.com"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        66.79372, 
+        -16.347671
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom\nSoldermask: top, bottom\nSurface finish: lead free"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        67.508577, 
+        -3.3784814
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://bitbucket.org/boldport/pcbmode\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      60.213814, 
+      4.0434453
+    ]
+  }, 
+  "drills": {}, 
+  "files": {
+    "routing-data": "kiwicon-badge_routing.json", 
+    "routing-svg": "kiwicon-badge.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "outline": {
+    "shape": {
+      "location": [
+        0.00583648, 
+        -7.5666127
+      ], 
+      "type": "path", 
+      "value": "m 7.614166,-38.76536 15.372416,0 0,2.474559 -15.372416,0 z m -46.826332,10.5339 c 1.300043,1.895463 2.925822,14.437438 13.071782,14.574857 6.038653,0.08179 7.85944,-3.064527 21.861407,-3.531462 -1.382127,-31.454915 37.934647,-30.484507 39.666078,-4.403491 2.335851,2.298293 2.19593,5.143628 14.424029,4.507509 0.297761,1.48351 0.401571,1.960931 -1.091259,4.433141 -3.641877,4.8976986 -5.596669,6.5628346 -16.303111,5.8416676 C 59.431821,18.230091 20.4372,39.196239 -7.208852,35.960077 c -1.5003373,-0.150791 -8.661967,-2.374303 -11.480304,-1.830381 -2.818336,0.543922 8.501515,12.698156 7.137493,12.62432 -5.960297,-0.32264 -9.268882,-13.709099 -11.58534,-14.668304 -4.632915,-1.918409 -8.604859,-4.402435 -11.962323,-7.26807 -6.71493,-5.73127 -10.971942,-12.988973 -13.142971,-20.3010345 -4.342059,-14.6241225 -0.340189,-29.4656785 9.030131,-32.7480675 z"
+    }
+  }, 
+  "physical": {
+    "stackup": [
+      "top", 
+      "bottom"
+    ]
+  }, 
+  "shapes": {
+    "pours": [
+      {
+        "layers": [
+          "top", 
+          "bottom"
+        ], 
+        "type": "layer"
+      }
+    ], 
+    "silkscreen": [
+      {
+        "font-family": "Pacifico-webfont", 
+        "font-size": "20mm", 
+        "layers": [
+          "top", 
+          "bottom"
+        ], 
+        "location": [
+          -1.5151707, 
+          -19.347565
+        ], 
+        "style": "fill", 
+        "type": "text", 
+        "value": "kiwicon"
+      }
+    ]
+  }, 
+  "soldermask": {
+    "circle-buffer": 0.05, 
+    "path-scale": 1.05, 
+    "rect-buffer": 0.05, 
+    "scale": 1.1
+  }, 
+  "solderpaste": {
+    "circle-buffer": -0.1, 
+    "path-scale": 0.9, 
+    "rect-buffer": -0.1, 
+    "scale": 0.9
+  }, 
+  "vias": {
+    "default-via": "VIA"
+  }
+}
